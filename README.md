@@ -13,10 +13,10 @@ I worked on an interdisciplinary team to develop *XPlore Schaffer*, an indoor na
 
 ### 🛠 My Tech Stack:
 
-- **Languages:** Python, Java, R, JavaScript, TypeScript
-- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib
+- **Languages:** Python, TypeScript, Java, R
+- **Data Science:** Pandas, NumPy, Tensorflow, Scikit-learn, Matplotlib
 - **Web Development:** React, Supabase, Drupal, HTML/CSS
-- **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub, Inkscape
+- **Tools:** Databricks, Jupyter Notebooks, Google Colab, Git, GitHub, Inkscape
 
 ### 🚀 Projects
 
