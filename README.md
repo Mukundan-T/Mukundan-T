@@ -31,7 +31,7 @@ Automated workflow to retreive metadata about library collection holdings to go 
 - **Tech Stack:** Python, Pandas, Tkinter
 
 ### 📫 How to Contact Me:
-- **LinkedIn:** [linkedin.com/in/mukundan-thanigaivelan/](linkedin.com/in/mukundan-thanigaivelan/)
+- **LinkedIn:** [linkedin.com/in/mukundan-thanigaivelan/](https://www.linkedin.com/in/mukundan-thanigaivelan/)
 - **Email:** mukundanat@gmail.com
 
 ### ✨Fun Fact:
